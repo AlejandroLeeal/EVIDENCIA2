@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">EVIDENCIA2</string>
+    <string-array name="estado">
+        <item>Aguascalientes</item>
+        <item>Baja California	Mexicali</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Coahuila</item>
+        <item>Colima Colima</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Distrito Federal</item>
+        <item>Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>México</item>
+        <item>Michoacán</item>
+        <item>Morelos</item>
+        <item>Nayarit	Tepic</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Puebla	Puebla</item>
+        <item>Querétaro</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosí</item>
+        <item>Sinaloa</item>
+        <item>Sonora	Hermosillo</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz</item>
+        <item>Yucatán</item>
+        <item>Zacatecas</item>
+
+
+    </string-array>
+
+</resources>
